@@ -1,2 +1,2 @@
 # Python-Practice
-其他的python 作品
+其他的python 小練習
